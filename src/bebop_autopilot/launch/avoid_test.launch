@@ -1,0 +1,11 @@
+<launch>  
+
+   <node name="agent" pkg="bebop_autopilot" type="Agent" output="screen" />
+   <node name="direction" pkg="bebop_autopilot" type="DirectionController" output="screen" />
+   <node name="speed" pkg="bebop_autopilot" type="SpeedController" output="screen" />
+   <node name="controller" pkg="bebop_autopilot" type="BebopController_avoid" output="screen" />    
+
+   <node name="avoid" pkg="obstacle_recognizer" type="obstacle_recognizer_node" output="screen" />    
+
+   
+</launch>

@@ -1,0 +1,2 @@
+set(obstacle_recognizer_MESSAGE_FILES "/home/sunho/bebop_ws/src/obstacle_recognition/msg/Information.msg")
+set(obstacle_recognizer_SERVICE_FILES "")

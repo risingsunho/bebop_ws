@@ -1,0 +1,8 @@
+prefix=/home/sunho/bebop_ws/devel
+
+Name: obstacle_recognizer
+Description: Description of obstacle_recognizer
+Version: 0.4.5
+Cflags: -I/home/sunho/bebop_ws/devel/include
+Libs: -L/home/sunho/bebop_ws/devel/lib 
+Requires: 
