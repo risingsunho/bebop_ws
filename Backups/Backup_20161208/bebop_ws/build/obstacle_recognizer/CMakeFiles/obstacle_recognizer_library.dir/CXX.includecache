@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sunho/bebop_ws/src/obstacle_recognizer/src/Object.cpp
+Object.h
+/home/sunho/bebop_ws/src/obstacle_recognizer/src/Object.h
+
+/home/sunho/bebop_ws/src/obstacle_recognizer/src/Object.h
+string
+-
+opencv2/opencv.hpp
+-
+opencv2/highgui/highgui_c.h
+-
+vector
+-
+obstacle_recognizer/Information.h
+-
+
+/home/sunho/bebop_ws/src/obstacle_recognizer/src/obstacle_detection.cpp
+obstacle_detection.h
+/home/sunho/bebop_ws/src/obstacle_recognizer/src/obstacle_detection.h
+
+/home/sunho/bebop_ws/src/obstacle_recognizer/src/obstacle_detection.h
+sstream
+-
+string
+-
+iostream
+-
+cstdio
+-
+cmath
+-
+opencv2/highgui/highgui.hpp
+-
+obstacle_recognizer/Information.h
+-
+Object.h
+/home/sunho/bebop_ws/src/obstacle_recognizer/src/Object.h
+

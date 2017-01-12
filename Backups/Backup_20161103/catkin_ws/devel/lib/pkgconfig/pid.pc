@@ -1,0 +1,8 @@
+prefix=/home/sunho/catkin_ws/devel
+
+Name: pid
+Description: Description of pid
+Version: 0.0.17
+Cflags: -I/home/sunho/catkin_ws/devel/include -I/home/sunho/catkin_ws/src/pid/include
+Libs: -L/home/sunho/catkin_ws/devel/lib 
+Requires: roscpp std_msgs message_runtime dynamic_reconfigure diagnostic_updater

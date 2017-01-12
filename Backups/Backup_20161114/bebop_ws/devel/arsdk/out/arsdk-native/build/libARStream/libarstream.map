@@ -1,0 +1,682 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o (ARSAL_Mutex_Lock)
+libarnetwork.so               /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o (ARNETWORK_Manager_FlushInputBuffer)
+libpthread.so.0               /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o (__errno_location@@GLIBC_2.2.5)
+libc.so.6                     /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o (__stack_chk_fail@@GLIBC_2.4)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .data          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .bss           0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .text          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .data          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .bss           0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .text          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .data          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .bss           0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .text          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .data          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .bss           0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .text          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ .data          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libarnetworkal.so
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libarnetwork.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x16c
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x16c /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x0000000000000360      0x768
+ *(.dynsym)
+ .dynsym        0x0000000000000360      0x768 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000ac8      0x859
+ *(.dynstr)
+ .dynstr        0x0000000000000ac8      0x859 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000001322       0x9e
+ *(.gnu.version)
+ .gnu.version   0x0000000000001322       0x9e /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x00000000000013c0        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x00000000000013c0       0x60
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000013c0       0x60 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001420       0xf0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel
+                0x0000000000001420       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001438       0xa8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x00000000000014e0       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x00000000000014f8       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000001510      0x3c0
+ *(.rela.plt)
+ .rela.plt      0x0000000000001510      0x3c0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x00000000000018d0       0x1a
+ *(SORT(.init))
+ .init          0x00000000000018d0       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x00000000000018d0                _init
+ .init          0x00000000000018e5        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x00000000000018f0      0x290
+ *(.plt)
+ .plt           0x00000000000018f0      0x290 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.text           0x0000000000001b80     0x3778
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000001b80       0xe5 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x0000000000001c65        0xb 
+ .text.ARSTREAM_Buffers_InitStreamDataBuffer
+                0x0000000000001c70       0x4b /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+                0x0000000000001c70                ARSTREAM_Buffers_InitStreamDataBuffer
+ *fill*         0x0000000000001cbb        0x5 
+ .text.ARSTREAM_Buffers_InitStreamAckBuffer
+                0x0000000000001cc0       0x41 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+                0x0000000000001cc0                ARSTREAM_Buffers_InitStreamAckBuffer
+ *fill*         0x0000000000001d01        0xf 
+ .text.ARSTREAM_NetworkHeaders_InternalAckPacketDump.constprop.0
+                0x0000000000001d10      0x292 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ *fill*         0x0000000000001fa2        0xe 
+ .text.ARSTREAM_NetworkHeaders_HammingWeight32
+                0x0000000000001fb0       0x34 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000001fb0                ARSTREAM_NetworkHeaders_HammingWeight32
+ *fill*         0x0000000000001fe4        0xc 
+ .text.ARSTREAM_NetworkHeaders_AckPacketAllFlagsSet
+                0x0000000000001ff0       0x5f /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000001ff0                ARSTREAM_NetworkHeaders_AckPacketAllFlagsSet
+ *fill*         0x000000000000204f        0x1 
+ .text.ARSTREAM_NetworkHeaders_AckPacketFlagIsSet
+                0x0000000000002050       0x3d /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002050                ARSTREAM_NetworkHeaders_AckPacketFlagIsSet
+ *fill*         0x000000000000208d        0x3 
+ .text.ARSTREAM_NetworkHeaders_AckPacketReset
+                0x0000000000002090       0x11 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002090                ARSTREAM_NetworkHeaders_AckPacketReset
+ *fill*         0x00000000000020a1        0xf 
+ .text.ARSTREAM_NetworkHeaders_AckPacketResetUpTo
+                0x00000000000020b0       0x55 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x00000000000020b0                ARSTREAM_NetworkHeaders_AckPacketResetUpTo
+ *fill*         0x0000000000002105        0xb 
+ .text.ARSTREAM_NetworkHeaders_AckPacketSetFlag
+                0x0000000000002110       0x2f /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002110                ARSTREAM_NetworkHeaders_AckPacketSetFlag
+ *fill*         0x000000000000213f        0x1 
+ .text.ARSTREAM_NetworkHeaders_AckPacketSetFlags
+                0x0000000000002140       0x11 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002140                ARSTREAM_NetworkHeaders_AckPacketSetFlags
+ *fill*         0x0000000000002151        0xf 
+ .text.ARSTREAM_NetworkHeaders_AckPacketUnsetFlag
+                0x0000000000002160       0x4e /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002160                ARSTREAM_NetworkHeaders_AckPacketUnsetFlag
+ *fill*         0x00000000000021ae        0x2 
+ .text.ARSTREAM_NetworkHeaders_AckPacketUnsetFlags
+                0x00000000000021b0       0x2f /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x00000000000021b0                ARSTREAM_NetworkHeaders_AckPacketUnsetFlags
+ *fill*         0x00000000000021df        0x1 
+ .text.ARSTREAM_NetworkHeaders_AckPacketCountSet
+                0x00000000000021e0       0x9d /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x00000000000021e0                ARSTREAM_NetworkHeaders_AckPacketCountSet
+ *fill*         0x000000000000227d        0x3 
+ .text.ARSTREAM_NetworkHeaders_AckPacketCountNotSet
+                0x0000000000002280       0xf1 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002280                ARSTREAM_NetworkHeaders_AckPacketCountNotSet
+ *fill*         0x0000000000002371        0xf 
+ .text.ARSTREAM_NetworkHeaders_AckPacketDump
+                0x0000000000002380        0x5 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                0x0000000000002380                ARSTREAM_NetworkHeaders_AckPacketDump
+ *fill*         0x0000000000002385        0xb 
+ .text.ARSTREAM_Reader_NetworkCallback
+                0x0000000000002390        0x3 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x0000000000002390                ARSTREAM_Reader_NetworkCallback
+ *fill*         0x0000000000002393        0xd 
+ .text.ARSTREAM_Reader_InitStreamDataBuffer
+                0x00000000000023a0        0xf /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x00000000000023a0                ARSTREAM_Reader_InitStreamDataBuffer
+ *fill*         0x00000000000023af        0x1 
+ .text.ARSTREAM_Reader_InitStreamAckBuffer
+                0x00000000000023b0        0x5 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x00000000000023b0                ARSTREAM_Reader_InitStreamAckBuffer
+ *fill*         0x00000000000023b5        0xb 
+ .text.ARSTREAM_Reader_New
+                0x00000000000023c0      0x1fa /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x00000000000023c0                ARSTREAM_Reader_New
+ *fill*         0x00000000000025ba        0x6 
+ .text.ARSTREAM_Reader_StopReader
+                0x00000000000025c0       0x4b /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x00000000000025c0                ARSTREAM_Reader_StopReader
+ *fill*         0x000000000000260b        0x5 
+ .text.ARSTREAM_Reader_Delete
+                0x0000000000002610      0x147 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x0000000000002610                ARSTREAM_Reader_Delete
+ *fill*         0x0000000000002757        0x9 
+ .text.ARSTREAM_Reader_RunDataThread
+                0x0000000000002760      0xb68 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x0000000000002760                ARSTREAM_Reader_RunDataThread
+ *fill*         0x00000000000032c8        0x8 
+ .text.ARSTREAM_Reader_RunAckThread
+                0x00000000000032d0      0x271 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x00000000000032d0                ARSTREAM_Reader_RunAckThread
+ *fill*         0x0000000000003541        0xf 
+ .text.ARSTREAM_Reader_GetEstimatedEfficiency
+                0x0000000000003550      0x140 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x0000000000003550                ARSTREAM_Reader_GetEstimatedEfficiency
+ .text.ARSTREAM_Reader_GetCustom
+                0x0000000000003690       0x13 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x0000000000003690                ARSTREAM_Reader_GetCustom
+ *fill*         0x00000000000036a3        0xd 
+ .text.ARSTREAM_Reader_AddFilter
+                0x00000000000036b0       0x93 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                0x00000000000036b0                ARSTREAM_Reader_AddFilter
+ *fill*         0x0000000000003743        0xd 
+ .text.ARSTREAM_Sender_NetworkCallback
+                0x0000000000003750      0x254 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000003750                ARSTREAM_Sender_NetworkCallback
+ *fill*         0x00000000000039a4        0xc 
+ .text.ARSTREAM_Sender_CallCallback
+                0x00000000000039b0       0x56 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ *fill*         0x0000000000003a06        0xa 
+ .text.ARSTREAM_Sender_FlushQueue
+                0x0000000000003a10       0x69 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ *fill*         0x0000000000003a79        0x7 
+ .text.ARSTREAM_Sender_AddToQueue
+                0x0000000000003a80       0xdf /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ *fill*         0x0000000000003b5f        0x1 
+ .text.ARSTREAM_Sender_InitStreamDataBuffer
+                0x0000000000003b60        0xf /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000003b60                ARSTREAM_Sender_InitStreamDataBuffer
+ *fill*         0x0000000000003b6f        0x1 
+ .text.ARSTREAM_Sender_InitStreamAckBuffer
+                0x0000000000003b70        0x5 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000003b70                ARSTREAM_Sender_InitStreamAckBuffer
+ *fill*         0x0000000000003b75        0xb 
+ .text.ARSTREAM_Sender_New
+                0x0000000000003b80      0x397 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000003b80                ARSTREAM_Sender_New
+ *fill*         0x0000000000003f17        0x9 
+ .text.ARSTREAM_Sender_SetTimeBetweenRetries
+                0x0000000000003f20       0x25 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000003f20                ARSTREAM_Sender_SetTimeBetweenRetries
+ *fill*         0x0000000000003f45        0xb 
+ .text.ARSTREAM_Sender_StopSender
+                0x0000000000003f50       0x1d /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000003f50                ARSTREAM_Sender_StopSender
+ *fill*         0x0000000000003f6d        0x3 
+ .text.ARSTREAM_Sender_Delete
+                0x0000000000003f70      0x18f /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000003f70                ARSTREAM_Sender_Delete
+ *fill*         0x00000000000040ff        0x1 
+ .text.ARSTREAM_Sender_SendNewFrame
+                0x0000000000004100       0x6c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000004100                ARSTREAM_Sender_SendNewFrame
+ *fill*         0x000000000000416c        0x4 
+ .text.ARSTREAM_Sender_FlushFramesQueue
+                0x0000000000004170       0x3b /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000004170                ARSTREAM_Sender_FlushFramesQueue
+ *fill*         0x00000000000041ab        0x5 
+ .text.ARSTREAM_Sender_RunDataThread
+                0x00000000000041b0      0xaa6 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x00000000000041b0                ARSTREAM_Sender_RunDataThread
+ *fill*         0x0000000000004c56        0xa 
+ .text.ARSTREAM_Sender_RunAckThread
+                0x0000000000004c60      0x41f /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000004c60                ARSTREAM_Sender_RunAckThread
+ *fill*         0x000000000000507f        0x1 
+ .text.ARSTREAM_Sender_GetEstimatedEfficiency
+                0x0000000000005080      0x144 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x0000000000005080                ARSTREAM_Sender_GetEstimatedEfficiency
+ *fill*         0x00000000000051c4        0xc 
+ .text.ARSTREAM_Sender_GetCustom
+                0x00000000000051d0       0x13 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x00000000000051d0                ARSTREAM_Sender_GetCustom
+ *fill*         0x00000000000051e3        0xd 
+ .text.ARSTREAM_Sender_AddFilter
+                0x00000000000051f0       0x8f /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                0x00000000000051f0                ARSTREAM_Sender_AddFilter
+ *fill*         0x000000000000527f        0x1 
+ .text.ARSTREAM_Error_ToString
+                0x0000000000005280       0x78 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+                0x0000000000005280                ARSTREAM_Error_ToString
+ *(.gnu.warning)
+
+.fini           0x00000000000052f8        0x9
+ *(SORT(.fini))
+ .fini          0x00000000000052f8        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x00000000000052f8                _fini
+ .fini          0x00000000000052fc        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000005301                PROVIDE (__etext, .)
+                0x0000000000005301                PROVIDE (_etext, .)
+                0x0000000000005301                PROVIDE (etext, .)
+
+.rodata         0x0000000000005320      0x938
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000005320       0x21 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ *fill*         0x0000000000005341        0x7 
+ .rodata.str1.8
+                0x0000000000005348       0xd3 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ *fill*         0x000000000000541b        0x5 
+ .rodata        0x0000000000005420       0x2e /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .rodata.str1.1
+                0x000000000000544e       0x10 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                                         0x19 (size before relaxing)
+ *fill*         0x000000000000545e        0x2 
+ .rodata.str1.8
+                0x0000000000005460      0x26f /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ *fill*         0x00000000000056cf       0x11 
+ .rodata        0x00000000000056e0       0x87 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ *fill*         0x0000000000005767        0x1 
+ .rodata.cst4   0x0000000000005768        0x8 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .rodata.str1.1
+                0x0000000000005770       0x10 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                                         0x19 (size before relaxing)
+ .rodata.str1.8
+                0x0000000000005780      0x32c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                                        0x3b7 (size before relaxing)
+ *fill*         0x0000000000005aac       0x14 
+ .rodata        0x0000000000005ac0       0xc0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .rodata.cst4   0x0000000000000000        0x8 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .rodata.str1.1
+                0x0000000000005b80       0x52 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ *fill*         0x0000000000005bd2        0x6 
+ .rodata.str1.8
+                0x0000000000005bd8       0x68 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+                                         0x67 (size before relaxing)
+ .rodata        0x0000000000005c40       0x18 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000005c58      0x16c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000005c58      0x16c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+
+.eh_frame       0x0000000000005dc8      0x844
+ *(.eh_frame)
+ .eh_frame      0x0000000000005dc8       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000005e08       0x80 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .eh_frame      0x0000000000005e88      0x1d8 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                                        0x1c8 (size before relaxing)
+ .eh_frame      0x0000000000006060      0x230 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .eh_frame      0x0000000000006290      0x360 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                                        0x348 (size before relaxing)
+ .eh_frame      0x00000000000065f0       0x18 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000006608        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000000660c                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x0000000000206dac                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000206db0        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000206db0        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.fini_array     0x0000000000206db8        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000206db8        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0000000000206dc0        0x8
+ *(.jcr)
+ .jcr           0x0000000000206dc0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .jcr           0x0000000000206dc0        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000206dc8      0x200
+ *(.dynamic)
+ .dynamic       0x0000000000206dc8      0x200 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000206dc8                _DYNAMIC
+
+.got            0x0000000000206fc8       0x38
+ *(.got)
+ .got           0x0000000000206fc8       0x38 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000207fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000207000      0x158
+ *(.got.plt)
+ .got.plt       0x0000000000207000      0x158 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000207000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000207158        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel      0x0000000000207158        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                0x0000000000207158                __dso_handle
+
+.tm_clone_table
+                0x0000000000207160        0x0
+ .tm_clone_table
+                0x0000000000207160        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .tm_clone_table
+                0x0000000000207160        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x0000000000207160                _edata = .
+                0x0000000000207160                PROVIDE (edata, .)
+                0x0000000000207160                . = .
+                0x0000000000207160                __bss_start = .
+
+.bss            0x0000000000207160        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000207160        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *(COMMON)
+                0x0000000000207168                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x0000000000207161        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000207168                . = ALIGN (0x8)
+                0x0000000000207168                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000607168        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000607168                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000607168                . = ALIGN (0x8)
+                0x0000000000607168                _end = .
+                0x0000000000607168                PROVIDE (end, .)
+                0x0000000000607168                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                                         0x2c (size before relaxing)
+ .comment       0x0000000000000000       0x2c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .comment       0x0000000000000000       0x2c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .comment       0x0000000000000000       0x2c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .comment       0x0000000000000000       0x2c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .comment       0x0000000000000000       0x2c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x360
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x40 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .debug_aranges
+                0x0000000000000040       0xf0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .debug_aranges
+                0x0000000000000130       0xd0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .debug_aranges
+                0x0000000000000200      0x130 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .debug_aranges
+                0x0000000000000330       0x30 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x6ab2
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x2c9 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .debug_info    0x00000000000002c9      0xe1f /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .debug_info    0x00000000000010e8     0x25a2 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .debug_info    0x000000000000368a     0x3383 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .debug_info    0x0000000000006a0d       0xa5 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.debug_abbrev   0x0000000000000000      0xbb0
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0xdb /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .debug_abbrev  0x00000000000000db      0x29d /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .debug_abbrev  0x0000000000000378      0x3bb /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .debug_abbrev  0x0000000000000733      0x400 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .debug_abbrev  0x0000000000000b33       0x7d /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.debug_line     0x0000000000000000     0x15f9
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x183 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .debug_line    0x0000000000000183      0x3de /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .debug_line    0x0000000000000561      0x788 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .debug_line    0x0000000000000ce9      0x858 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .debug_line    0x0000000000001541       0xb8 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x1f1d
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x5a1 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+                                        0x5f2 (size before relaxing)
+ .debug_str     0x00000000000005a1      0x625 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+                                        0x756 (size before relaxing)
+ .debug_str     0x0000000000000bc6      0xaf6 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+                                       0x14c1 (size before relaxing)
+ .debug_str     0x00000000000016bc      0x817 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+                                       0x181c (size before relaxing)
+ .debug_str     0x0000000000001ed3       0x4a /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+                                        0x1a4 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x59ce
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x201 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .debug_loc     0x0000000000000201      0x9a0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .debug_loc     0x0000000000000ba1     0x1f3a /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .debug_loc     0x0000000000002adb     0x2eba /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .debug_loc     0x0000000000005995       0x39 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0xd40
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x30 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Buffers.c.o
+ .debug_ranges  0x0000000000000030      0x150 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_NetworkHeaders.c.o
+ .debug_ranges  0x0000000000000180      0x5d0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Reader.c.o
+ .debug_ranges  0x0000000000000750      0x5d0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/Sources/ARSTREAM_Sender.c.o
+ .debug_ranges  0x0000000000000d20       0x20 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARStream/obj/gen/Sources/ARSTREAM_Error.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(out/arsdk-native/build/libARStream/libarstream.so elf64-x86-64)

@@ -1,0 +1,632 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (ARSAL_Print_PrintRaw)
+libardiscovery.so             /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (ARDISCOVERY_getProductID)
+libjson.so                    /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (json_tokener_parse)
+libpthread.so.0               /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (fsync@@GLIBC_2.2.5)
+libc.so.6                     /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (fflush@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .data          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .text          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .data          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .bss           0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .text          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .data          0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .bss           0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libardiscovery.so
+LOAD /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/staging/usr/lib/libjson.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x174
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x174 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x0000000000000368      0x960
+ *(.dynsym)
+ .dynsym        0x0000000000000368      0x960 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000cc8      0x71f
+ *(.dynstr)
+ .dynstr        0x0000000000000cc8      0x71f /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x00000000000013e8       0xc8
+ *(.gnu.version)
+ .gnu.version   0x00000000000013e8       0xc8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x00000000000014b0        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x00000000000014b0       0x80
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000014b0       0x80 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001530       0xf0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel
+                0x0000000000001530       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001548       0xa8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x00000000000015f0       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000001608       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000001620      0x6c0
+ *(.rela.plt)
+ .rela.plt      0x0000000000001620      0x6c0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000001ce0       0x1a
+ *(SORT(.init))
+ .init          0x0000000000001ce0       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000001ce0                _init
+ .init          0x0000000000001cf5        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000001d00      0x490
+ *(.plt)
+ .plt           0x0000000000001d00      0x490 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.text           0x0000000000002190     0x8d79
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000002190       0xe5 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x0000000000002275        0xb 
+ .text.ARMEDIA_Error_ToString
+                0x0000000000002280      0x102 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+                0x0000000000002280                ARMEDIA_Error_ToString
+ *fill*         0x0000000000002382        0xe 
+ .text.ARMEDIA_H264StartcodeMatch
+                0x0000000000002390       0x4d /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ *fill*         0x00000000000023dd        0x3 
+ .text.ARMEDIA_VideoEncapsuler_New
+                0x00000000000023e0        0xf /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x00000000000023e0                ARMEDIA_VideoEncapsuler_New
+ *fill*         0x00000000000023ef        0x1 
+ .text.ARMEDIA_VideoEncapsuler_SetAvcParameterSets
+                0x00000000000023f0      0x3cc /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x00000000000023f0                ARMEDIA_VideoEncapsuler_SetAvcParameterSets
+ *fill*         0x00000000000027bc        0x4 
+ .text.ARMEDIA_VideoEncapsuler_SetMetadataInfo
+                0x00000000000027c0      0x143 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x00000000000027c0                ARMEDIA_VideoEncapsuler_SetMetadataInfo
+ *fill*         0x0000000000002903        0xd 
+ .text.ARMEDIA_VideoEncapsuler_AddFrame
+                0x0000000000002910     0x1817 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000002910                ARMEDIA_VideoEncapsuler_AddFrame
+ *fill*         0x0000000000004127        0x9 
+ .text.ARMEDIA_VideoEncapsuler_AddSample
+                0x0000000000004130      0xc82 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000004130                ARMEDIA_VideoEncapsuler_AddSample
+ *fill*         0x0000000000004db2        0xe 
+ .text.ARMEDIA_VideoEncapsuler_Finish
+                0x0000000000004dc0     0x2063 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000004dc0                ARMEDIA_VideoEncapsuler_Finish
+ *fill*         0x0000000000006e23        0xd 
+ .text.ARMEDIA_VideoEncapsuler_SetGPSInfos
+                0x0000000000006e30       0x26 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000006e30                ARMEDIA_VideoEncapsuler_SetGPSInfos
+ *fill*         0x0000000000006e56        0xa 
+ .text.ARMEDIA_VideoEncapsuler_TryFixMediaFile
+                0x0000000000006e60     0x138e /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000006e60                ARMEDIA_VideoEncapsuler_TryFixMediaFile
+ *fill*         0x00000000000081ee        0x2 
+ .text.ARMEDIA_VideoEncapsuler_changePVATAtomDate
+                0x00000000000081f0      0x1d0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x00000000000081f0                ARMEDIA_VideoEncapsuler_changePVATAtomDate
+ .text.ARMEDIA_VideoEncapsuler_addPVATAtom
+                0x00000000000083c0      0x1ab /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x00000000000083c0                ARMEDIA_VideoEncapsuler_addPVATAtom
+ *fill*         0x000000000000856b        0x5 
+ .text.atomFromData
+                0x0000000000008570       0x88 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008570                atomFromData
+ *fill*         0x00000000000085f8        0x8 
+ .text.insertAtomIntoAtom
+                0x0000000000008600       0xcc /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008600                insertAtomIntoAtom
+ *fill*         0x00000000000086cc        0x4 
+ .text.writeAtomToFile
+                0x00000000000086d0       0xde /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000086d0                writeAtomToFile
+ *fill*         0x00000000000087ae        0x2 
+ .text.freeAtom
+                0x00000000000087b0       0x33 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000087b0                freeAtom
+ *fill*         0x00000000000087e3        0xd 
+ .text.ftypAtomForFormatAndCodecWithOffset
+                0x00000000000087f0      0x14c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000087f0                ftypAtomForFormatAndCodecWithOffset
+ *fill*         0x000000000000893c        0x4 
+ .text.mdatAtomForFormatWithVideoSize
+                0x0000000000008940       0xb4 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008940                mdatAtomForFormatWithVideoSize
+ *fill*         0x00000000000089f4        0xc 
+ .text.mvhdAtomFromFpsNumFramesAndDate
+                0x0000000000008a00      0x1f4 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008a00                mvhdAtomFromFpsNumFramesAndDate
+ *fill*         0x0000000000008bf4        0xc 
+ .text.tkhdAtomWithResolutionNumFramesFpsAndDate
+                0x0000000000008c00      0x22c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008c00                tkhdAtomWithResolutionNumFramesFpsAndDate
+ *fill*         0x0000000000008e2c        0x4 
+ .text.mdhdAtomFromFpsNumFramesAndDate
+                0x0000000000008e30       0xc4 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008e30                mdhdAtomFromFpsNumFramesAndDate
+ *fill*         0x0000000000008ef4        0xc 
+ .text.hdlrAtomForMdia
+                0x0000000000008f00      0x18c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008f00                hdlrAtomForMdia
+ *fill*         0x000000000000908c        0x4 
+ .text.smhdAtomGen
+                0x0000000000009090       0x4a /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000009090                smhdAtomGen
+ *fill*         0x00000000000090da        0x6 
+ .text.vmhdAtomGen
+                0x00000000000090e0       0x57 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000090e0                vmhdAtomGen
+ *fill*         0x0000000000009137        0x9 
+ .text.nmhdAtomGen
+                0x0000000000009140       0x55 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000009140                nmhdAtomGen
+ *fill*         0x0000000000009195        0xb 
+ .text.hdlrAtomForMinf
+                0x00000000000091a0       0xf5 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000091a0                hdlrAtomForMinf
+ *fill*         0x0000000000009295        0xb 
+ .text.drefAtomGen
+                0x00000000000092a0       0xa5 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000092a0                drefAtomGen
+ *fill*         0x0000000000009345        0xb 
+ .text.stsdAtomWithResolutionAndCodec
+                0x0000000000009350      0x7e1 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000009350                stsdAtomWithResolutionAndCodec
+ *fill*         0x0000000000009b31        0xf 
+ .text.stsdAtomWithAudioCodec
+                0x0000000000009b40      0x16c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000009b40                stsdAtomWithAudioCodec
+ *fill*         0x0000000000009cac        0x4 
+ .text.stsdAtomForMetadata
+                0x0000000000009cb0      0x164 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000009cb0                stsdAtomForMetadata
+ *fill*         0x0000000000009e14        0xc 
+ .text.stsdAtomWithResolutionCodecSpsAndPps
+                0x0000000000009e20      0x2d0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000009e20                stsdAtomWithResolutionCodecSpsAndPps
+ .text.stscAtomGen
+                0x000000000000a0f0       0xdc /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x000000000000a0f0                stscAtomGen
+ *fill*         0x000000000000a1cc        0x4 
+ .text.stszAtomGen
+                0x000000000000a1d0      0x104 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x000000000000a1d0                stszAtomGen
+ *fill*         0x000000000000a2d4        0xc 
+ .text.metadataAtomFromTagAndValue
+                0x000000000000a2e0      0x10b /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x000000000000a2e0                metadataAtomFromTagAndValue
+ *fill*         0x000000000000a3eb        0x5 
+ .text.pvatAtomGen
+                0x000000000000a3f0       0x1b /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x000000000000a3f0                pvatAtomGen
+ *fill*         0x000000000000a40b        0x5 
+ .text.createDataFromAtom
+                0x000000000000a410       0x51 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x000000000000a410                createDataFromAtom
+ *fill*         0x000000000000a461        0xf 
+ .text.getVideoFpsFromAtom
+                0x000000000000a470       0x13 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x000000000000a470                getVideoFpsFromAtom
+ *fill*         0x000000000000a483        0xd 
+ .text.swap_uint64
+                0x000000000000a490       0x18 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x000000000000a490                swap_uint64
+ *fill*         0x000000000000a4a8        0x8 
+ .text.seekMediaFileToAtom
+                0x000000000000a4b0      0x29d /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x000000000000a4b0                seekMediaFileToAtom
+ *fill*         0x000000000000a74d        0x3 
+ .text.createDataFromFile
+                0x000000000000a750      0x47b /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x000000000000a750                createDataFromFile
+ *fill*         0x000000000000abcb        0x5 
+ .text.getVideoFpsFromFile
+                0x000000000000abd0       0xf3 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x000000000000abd0                getVideoFpsFromFile
+ *fill*         0x000000000000acc3        0xd 
+ .text.seekMediaBufferToAtom
+                0x000000000000acd0       0x96 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x000000000000acd0                seekMediaBufferToAtom
+ *fill*         0x000000000000ad66        0xa 
+ .text.ARMEDIA_VideoAtom_GetPVATString
+                0x000000000000ad70      0x199 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x000000000000ad70                ARMEDIA_VideoAtom_GetPVATString
+ *(.gnu.warning)
+
+.fini           0x000000000000af0c        0x9
+ *(SORT(.fini))
+ .fini          0x000000000000af0c        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000000af0c                _fini
+ .fini          0x000000000000af10        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x000000000000af15                PROVIDE (__etext, .)
+                0x000000000000af15                PROVIDE (_etext, .)
+                0x000000000000af15                PROVIDE (etext, .)
+
+.rodata         0x000000000000af20     0x18b4
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x000000000000af20       0xd6 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ *fill*         0x000000000000aff6        0x2 
+ .rodata.str1.8
+                0x000000000000aff8       0xb4 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .rodata.str1.1
+                0x000000000000b0ac       0x8a /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                                         0x8d (size before relaxing)
+ *fill*         0x000000000000b136        0x2 
+ .rodata.str1.8
+                0x000000000000b138     0x1298 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ *fill*         0x000000000000c3d0       0x10 
+ .rodata        0x000000000000c3e0      0x1ec /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ *fill*         0x000000000000c5cc        0x4 
+ .rodata.str1.8
+                0x000000000000c5d0      0x128 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .rodata.str1.1
+                0x000000000000c6f8       0xa3 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                                         0xe9 (size before relaxing)
+ *fill*         0x000000000000c79b        0x5 
+ .rodata        0x000000000000c7a0       0x34 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x000000000000c7d4      0x164
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x000000000000c7d4      0x164 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+
+.eh_frame       0x000000000000c938      0x9b4
+ *(.eh_frame)
+ .eh_frame      0x000000000000c938       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x000000000000c978       0x30 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .eh_frame      0x000000000000c9a8      0x2b0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .eh_frame      0x000000000000cc58      0x690 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                                        0x658 (size before relaxing)
+ .eh_frame      0x000000000000d2e8        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000000d2ec                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x000000000020dd9c                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000020dda0        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000020dda0        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.fini_array     0x000000000020dda8        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000020dda8        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x000000000020ddb0        0x8
+ *(.jcr)
+ .jcr           0x000000000020ddb0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .jcr           0x000000000020ddb0        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x000000000020ddb8      0x210
+ *(.dynamic)
+ .dynamic       0x000000000020ddb8      0x210 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020ddb8                _DYNAMIC
+
+.got            0x000000000020dfc8       0x38
+ *(.got)
+ .got           0x000000000020dfc8       0x38 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000020efe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000020e000      0x258
+ *(.got.plt)
+ .got.plt       0x000000000020e000      0x258 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020e000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000020e258        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel      0x000000000020e258        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                0x000000000020e258                __dso_handle
+
+.tm_clone_table
+                0x000000000020e260        0x0
+ .tm_clone_table
+                0x000000000020e260        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .tm_clone_table
+                0x000000000020e260        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000020e260                _edata = .
+                0x000000000020e260                PROVIDE (edata, .)
+                0x000000000020e260                . = .
+                0x000000000020e260                __bss_start = .
+
+.bss            0x000000000020e260        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000020e260        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *(COMMON)
+                0x000000000020e268                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000020e261        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000020e268                . = ALIGN (0x8)
+                0x000000000020e268                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000060e268        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000060e268                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000060e268                . = ALIGN (0x8)
+                0x000000000060e268                _end = .
+                0x000000000060e268                PROVIDE (end, .)
+                0x000000000060e268                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                                         0x2c (size before relaxing)
+ .comment       0x0000000000000000       0x2c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .comment       0x0000000000000000       0x2c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .comment       0x0000000000000000       0x2c /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x310
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_aranges
+                0x0000000000000030       0xd0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_aranges
+                0x0000000000000100      0x210 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xd972
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0xe0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_info    0x00000000000000e0     0x972a /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_info    0x000000000000980a     0x4168 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_abbrev   0x0000000000000000      0x9f8
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x7d /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_abbrev  0x000000000000007d      0x4a3 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_abbrev  0x0000000000000520      0x4d8 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_line     0x0000000000000000     0x2147
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0xf6 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_line    0x00000000000000f6     0x12d9 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_line    0x00000000000013cf      0xd78 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x1d90
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x2ba /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+                                        0x2d3 (size before relaxing)
+ .debug_str     0x00000000000002ba     0x16d5 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                                       0x1a85 (size before relaxing)
+ .debug_str     0x000000000000198f      0x401 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                                       0x111f (size before relaxing)
+
+.debug_loc      0x0000000000000000    0x1265f
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x8e8a /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_loc     0x0000000000008e8a     0x97d5 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x2570
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x20 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_ranges  0x0000000000000020     0x1190 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_ranges  0x00000000000011b0     0x13c0 /home/sunho/bebop_ws/devel/arsdk/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(out/arsdk-native/build/libARMedia/libarmedia.so elf64-x86-64)

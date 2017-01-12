@@ -1,0 +1,8 @@
+<launch>  
+    
+   <node name="direction2" pkg="bebop_autopilot" type="DirectionController_follower1" output="screen" />
+   <node name="speed2" pkg="bebop_autopilot" type="SpeedController_follower1" output="screen" />
+   <node name="controller2" pkg="bebop_autopilot" type="BebopController_follower1" output="screen" />      
+
+   
+</launch>

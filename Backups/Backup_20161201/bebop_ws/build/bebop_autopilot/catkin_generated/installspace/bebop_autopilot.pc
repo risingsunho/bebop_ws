@@ -1,0 +1,8 @@
+prefix=/home/sunho/bebop_ws/install
+
+Name: bebop_autopilot
+Description: Description of bebop_autopilot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sunho/bebop_ws/install/lib 
+Requires: 

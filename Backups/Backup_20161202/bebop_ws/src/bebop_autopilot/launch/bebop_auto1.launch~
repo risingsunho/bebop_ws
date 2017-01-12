@@ -1,0 +1,16 @@
+<launch>  
+
+   <node name="agent" pkg="bebop_autopilot" type="Agent" output="screen" />    
+   <node name="directioninput" pkg="bebop_autopilot" type="DirectionController" output="screen" />
+   <node name="positioninput" pkg="bebop_autopilot" type="SpeedController" output="screen" />
+   <node name="controller" pkg="bebop_autopilot" type="BebopController" output="screen" />    
+
+   <node name="directioninput1" pkg="bebop_autopilot" type="DirectionController_follower" output="screen" />
+   <node name="positioninput1" pkg="bebop_autopilot" type="SpeedController_follower" output="screen" />
+   <node name="controller1" pkg="bebop_autopilot" type="BebopController_follower" output="screen" />    
+
+   <node name="directioninput2" pkg="bebop_autopilot" type="DirectionController_follower1" output="screen" />
+   <node name="positioninput2" pkg="bebop_autopilot" type="SpeedController_follower1" output="screen" />
+   <node name="controller2" pkg="bebop_autopilot" type="BebopController_follower1" output="screen" />    
+   
+</launch>
